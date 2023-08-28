@@ -1,7 +1,9 @@
 # SortingSampleCPP
-Implementation of basic sorting algorithms in C++
+Implementation of basic sorting algorithms in C++. Array of numbers are randomnly generated.
+
 Run with main.cpp
-Read Sorter.hpp for options
+
+Read Sorter.hpp for details and options
 
 Sample output:
 
