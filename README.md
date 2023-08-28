@@ -4,6 +4,7 @@ Run with main.cpp
 Read Sorter.hpp for options
 
 Sample output:
+
 ******** Selection Sort ********
 
 Original Array:
