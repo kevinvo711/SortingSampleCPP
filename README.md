@@ -5,6 +5,7 @@ Read Sorter.hpp for options
 
 Sample output:
 ******** Selection Sort ********
+
 Original Array:
 45 19 77 52 65 77 53 39 69 87
 
@@ -16,6 +17,7 @@ Number of swaps: 9
 
 
 ******** Insertion Sort ********
+
 Original Array:
 83 34 95 73 51 57 47 51 60 71
 
@@ -27,6 +29,7 @@ Number of swaps: 24
 
 
 ********** Merge Sort **********
+
 Original Array:
 24 42 62 79 29 4 57 24 67 18
 
